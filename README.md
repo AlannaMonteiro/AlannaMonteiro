@@ -36,4 +36,8 @@
 - ⚡ Fun fact: ...
 -->
 
+###
+<img src="https://raw.githubusercontent.com/AlannaMonteiro/AlannaMonteiro/output/snake.svg" alt="Snake animation" />
+
+
 
