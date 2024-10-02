@@ -11,10 +11,12 @@
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlannaMonteiro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  /> -->
 </div>
 
-###
+### 
 
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -28,6 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ##
@@ -36,6 +40,7 @@
   <a href="https://instagram.com/alanna_rocha_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/alanna-r-monteiro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:annalamj1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+   <a href = "https://editorapascal.com.br/criando-solucoes-tecnologicas-com-a-engenharia-de-computacao-volume-4-capitulo-2/"><img src="https://img.shields.io/badge/-Livro-%238744CD?style=for-the-badge&logo=livro&logoColor=white" target="_blank"></a>
 
 </div>
 <! -- 
@@ -50,7 +55,9 @@
 -->
 
 ###
+<div align="center">
 <img src="https://raw.githubusercontent.com/AlannaMonteiro/AlannaMonteiro/output/snake.svg" alt="Snake animation" />
+</div>
 
 
 
