@@ -1,9 +1,23 @@
 ## Olá Mundo!!!Sou Alanna Monteiro!!👋
 
+Sou Engenheira de Computação,formada pela Universidade CEUMA em São Luís-MA e estou me especializando em Infraestrutura e Segurança de Redes.
+Tenho uma forte paixão por criar soluções tecnológicas eficientes e seguras, sempre focando em desenvolvimento de software e segurança.
 
-<!--   blslbslbslbsbslbslbslbsbslbslsblbslbslsblsb
-##
--->
+<!--Habilidades:
+- Desenvolvimento de aplicativos (Flutter/Dart)
+- APIs REST (Spring Boot)
+- Programação (Python, Java,C,Html...)
+- Automação e Integração de sistemas-->
+
+Principais atuações:
+
+- Aplicativo móvel para Unidades de Terapia Intensiva (UTI)
+- Colaboração em livros tecnológicos
+- Participação na empresa júnior Seeds Tecnologia
+- Aluna da Incode Tech School _atualmente
+
+Sou uma pessoa proativa, organizada, flexível, comprometida com prazos e estou sempre buscando novos desafios!!
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AlannaMonteiro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
